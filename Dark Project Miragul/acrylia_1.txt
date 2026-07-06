@@ -16,7 +16,7 @@ P -394.4589, 215.2386, 33.1061, 255, 255, 255, 2, Warder_of_Death_(Raid_Spawn)
 P -373.0151, 275.3231, -10.9979, 255, 255, 255, 2, Warder_of_Life_(Raid_Spawn)
 P -355.1760, 8.8882, -40.9979, 255, 255, 255, 2, Vhalek_Shah
 P -939.0651, 617.8770, -45.7519, 240, 127, 0, 2, Khati_Sha_the_Twisted_(Raid)
-P 671.7193, 291.8568, -90.2953, 240, 127, 0, 2, an_evolved_burrower_(Raid)
+P 684.0000, 299.0000, -82.4000, 240, 127, 0, 2, #an_evolved_burrower
 P -239.9040, 7.8152, -6.0491, 177, 115, 0, 2, a_grimling_arcanist_(Hunter)
 P -376.0473, 274.3235, -10.9979, 177, 115, 0, 2, a_grimling_arch_sage_(Hunter)
 P -145.9138, 277.8927, 0.5019, 177, 115, 0, 2, a_grimling_bloodmage_(Hunter)
