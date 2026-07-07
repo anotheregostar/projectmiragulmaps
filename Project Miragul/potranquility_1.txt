@@ -56,12 +56,8 @@ P 1231.0000, 377.0000, -905.1200, 0, 0, 0, 2, Apprentice_Daultier
 P 1272.0000, 385.0000, -904.6200, 0, 0, 0, 2, Elder_Clinka
 P 1267.0000, 430.0000, -903.0000, 0, 0, 0, 2, Elder_Humfort
 P 1354.0000, 206.0000, -906.1200, 0, 0, 0, 2, Elder_Harrik
-P 1291.1630, 258.9360, -908.1816, 0, 127, 127, 2, Quellious_(Quests)
 P 1279.7134, 265.3010, -909.8353, 0, 127, 0, 2, Margay_Nomonthi_(Solvents)
-P 1268.6006, 283.7650, -909.9976, 0, 240, 0, 2, Wilcher_Rigunuse_(Armor_Augs)
-P 1284.9629, 299.2440, -909.8353, 0, 240, 0, 2, Lyndalin_Delwadamain_(Group_Armor)
 P 1306.3727, 289.7246, -909.8353, 0, 127, 0, 2, Warlowe_Rida_(Spells)
-P 1313.7948, 266.0174, -909.9976, 0, 240, 0, 2, Erthwin_Firgrove_(Weapon_Augs)
 P 1322.9308, 308.0289, -909.9976, 0, 240, 0, 2, Nelirid_Wittma_(Raid_Outfitter)
 P 1366.0000, 302.0000, -905.2500, 0, 0, 0, 2, Fahlia_Shadyglade
 P 1418.0000, 292.0000, -905.8800, 0, 0, 0, 2, Elder_Fuirstel

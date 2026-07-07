@@ -51,5 +51,3 @@ P 6278.0000, -2816.0000, -55.6300, 0, 0, 0, 2, Eichvul
 P -671.8800, -3611.5000, 4.3800, 0, 0, 0, 2, Talin_O`Donal
 P 5417.0249, -610.5267, 15.1767, 0, 0, 0, 2, Drugenna_Eisley
 P 5546.1084, 988.9325, 168.8074, 127, 64, 0, 2, Dark_Assassin_(Hunter,Roam)
-P -248.2189, -1661.6614, -62.3388, 0, 0, 240, 1, GS:_Frozen_Pumpkin_(Nights_of_the_Dead)
-P -619.3455, -3320.6094, -55.5356, 0, 127, 127, 2, Oxrun_the_Bonecollector_(Nights_of_the_Dead_Quests)

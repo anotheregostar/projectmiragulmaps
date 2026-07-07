@@ -66,7 +66,6 @@ P 808.0000, -107.0000, -38.7500, 0, 240, 0, 2, Lynsalai_T`Nyal_(Parcels_and_Gene
 P 1029.5000, 271.1300, -36.7500, 0, 0, 0, 2, Isvan_S`Lon
 P 1218.0000, -40.0000, -10.7500, 0, 127, 0, 2, Lysanda_S`Kor_(General)
 P 486.0000, 77.0000, -24.7500, 0, 0, 0, 2, Fleshweaver_T`soma
-P 925.1090, -84.4621, -41.9666, 0, 127, 0, 2, Gemcrafter_Disel_(Melee_Augs)
 P 986.0000, 154.0000, -38.7500, 0, 0, 0, 2, Vorshar_the_Despised
 P 862.0000, -78.0000, -52.8000, 0, 0, 0, 2, Kwilrz_Vn`Ycxa
 P 902.0000, -151.0000, 17.1300, 127, 127, 127, 2, Ryoz_K`Tarn_(Enchanter_GM)
@@ -102,7 +101,6 @@ P 974.6544, -133.9091, -28.9979, 0, 127, 0, 2, a_spell_research_merchant_(Resear
 P 924.5722, -144.3803, -27.9979, 0, 127, 0, 2, a_spell_research_merchant_(Research)
 P 933.7165, -157.5836, -27.9979, 0, 127, 0, 2, a_spell_research_merchant_(Research)
 P 987.1300, -119.0000, 3.1000, 0, 0, 0, 2, Razran_F`Lok
-P 886.2075, -85.4598, -41.9666, 0, 127, 127, 2, Artisan_Dosan_Vis`moor_(Trade_Skill_Quests)
 P 927.9759, -48.3743, -55.9666, 0, 240, 0, 2, Guard_W`Selo_(Parcels)
 P 1214.1037, 94.5014, -13.9979, 0, 127, 0, 2, Myrva_N`Tan_(General)
 P 1239.0000, 90.0000, 3.1300, 0, 127, 0, 2, Svlis_C`Luzz_(General)

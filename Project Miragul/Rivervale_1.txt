@@ -75,7 +75,6 @@ P 204.0000, 87.0000, 2.1300, 128, 128, 128, 2, Rueppy_Kutpurse_(Rogue_GM)
 P 201.0000, 92.0000, 14.1300, 128, 128, 128, 2, Hebber_Druneny_(Rogue_GM)
 P 205.0000, -126.0000, 4.1300, 128, 128, 128, 2, Marshal_Ghobber_(Warrior_GM)
 P 151.0000, 182.0000, -9.7500, 0, 127, 0, 2, Uma_Sweetcookie_(Baking)
-P 70.8241, 126.9574, 13.3041, 0, 127, 0, 2, Gemcrafter_Hamm_(Melee_Augs)
 P 204.0000, -112.0000, 4.1300, 0, 0, 0, 2, Dalorio_Blistbobble
 P 173.0000, -86.0000, 4.1300, 255, 210, 0, 2, Donlo_Goobler_(Banker)
 P 99.0000, -36.0000, 2.1300, 0, 0, 0, 2, Exterminator_Sutten
@@ -91,7 +90,6 @@ P 181.0000, 29.0000, 2.1300, 0, 127, 127, 2, Bouncer_Bogglebin
 P 195.0000, 54.0000, 2.1200, 127, 127, 127, 2, Wendel_Deeppockets_(Rogue_GM)
 P 207.0000, 49.0000, 2.1300, 0, 127, 0, 2, Flyndia_Deeppockets_(Brewing)
 P 177.0000, 49.0000, 2.1300, 0, 0, 0, 2, Blinza_Toepopal
-P 186.1545, 28.6488, 12.0019, 0, 127, 127, 2, Poison_Master_Elmn_(Poison_Tasks)
 P 191.0000, 60.0000, 14.1300, 0, 127, 127, 2, Ace_Slighthand
 P 181.0000, 78.0000, 14.1300, 0, 127, 127, 2, Bouncer_Bigboot
 P 210.1220, 63.9023, 22.0019, 0, 0, 0, 2, Shutter_Silentstep

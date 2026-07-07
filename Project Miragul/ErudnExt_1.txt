@@ -45,7 +45,6 @@ P 69.0000, 723.0000, 0.0000, 255, 255, 255, 2, Cleric_Guild
 P 391.0000, 1145.0000, 0.0000, 255, 255, 255, 2, Paladin_Guild
 P 353.9587, -106.5309, 21.5227, 255, 0, 0, 3, to_Erud`s_Crossing_(Translocator_Eniela)
 P -72.5312, -246.3995, 17.5250, 240, 240, 240, 2, Erudin_Port_Authority
-P -26.2899, 119.3859, 39.7315, 0, 0, 0, 2, Artisan_Gorion_Telld`mare_(Tradeskill_Quests)
 P 112.0000, 755.0000, 52.6300, 128, 128, 128, 2, Vynon_Estaliun_(Paladin_GM)
 P 247.8618, 714.3126, 50.4965, 240, 240, 240, 2, City_Armory
 P 177.0000, 664.0000, 67.6300, 255, 210, 0, 2, Bazma_Brinstar_(Tribute_Master)
@@ -63,7 +62,6 @@ P 252.0000, 1376.0000, 35.7500, 0, 128, 0, 2, Valani_Gadriek_(Tailoring)
 P 310.4101, 1399.3150, 36.5117, 240, 240, 0, 2, Teleport_Down
 P 94.0000, 1023.0000, 51.6300, 0, 127, 0, 2, Palus_Weaponsmith_(Weapons)
 P 98.0000, 956.0000, 51.6300, 0, 127, 0, 2, Teria_Finleather_(General)
-P 96.2210, 976.0398, 63.9706, 0, 127, 0, 2, Gemcrafter_Emod_(Melee_Augs)
 P 417.2541, 1072.8063, 47.9706, 0, 127, 0, 2, Kathar_(Paladin_Spells)
 P 470.0000, 1094.0000, 51.6300, 0, 127, 0, 2, Fhania_Aserdon_(Weapons)
 P 393.8045, 1111.5343, 47.9706, 127, 127, 127, 2, Laoni_(GM_Paladin)

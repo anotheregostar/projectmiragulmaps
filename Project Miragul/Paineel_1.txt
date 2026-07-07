@@ -64,7 +64,6 @@ P -832.5374, -946.9884, -83.8102, 240, 240, 240, 2, Skeleton_Bards
 P -924.0000, -958.0000, -66.1300, 0, 0, 0, 2, Sejako_Mujan
 P -915.0000, -957.0000, -63.5000, 0, 0, 0, 2, Alaria_Mujan
 P -820.6781, -902.3080, -83.8102, 240, 240, 240, 2, The_Abattoir_Members_Only
-P -782.7483, -856.6159, -83.8102, 0, 127, 127, 2, Medoris_Flalzm_(Task_Master,Roam)
 P -803.0000, -795.8800, -80.1300, 0, 127, 127, 2, Ninna_Flalzm
 P -824.0000, -734.0000, -54.1300, 0, 0, 0, 2, Tormented_Soul
 P -839.7088, -743.4873, -26.8415, 240, 240, 240, 2, Necromancer_Guild
@@ -101,7 +100,6 @@ P -441.0000, -889.0000, -120.1300, 0, 127, 0, 2, Sheras_Milaku_(Shadow_Knight_Sp
 P -441.0000, -900.0000, -120.1300, 0, 127, 0, 2, Dovan_Sires_(Shadow_Knight_Spells)
 P -470.0000, -889.0000, -120.1300, 0, 127, 0, 2, Brettas_Norval_(Shadow_Knight_Spells)
 P -470.0000, -863.0000, -120.1300, 127, 127, 127, 2, Shevra_Kollintar_(Shadow_Knight_GM)
-P -659.8426, -1289.0445, -41.9665, 0, 127, 0, 2, Gemcrafter_Emod_(Melee_Augs)
 P -685.0000, -1308.0000, -38.1300, 0, 0, 0, 2, Royal_Guard_Sheltuin
 P -686.0000, -1308.0000, -22.1300, 0, 0, 0, 2, Royal_Guard_Lilkus
 P -549.0000, -1213.0000, -38.1300, 0, 127, 0, 2, Lillean_Han_Oni_(Cleric_Spells)

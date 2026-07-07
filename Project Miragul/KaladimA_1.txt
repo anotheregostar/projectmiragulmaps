@@ -31,7 +31,6 @@ P -299.0000, -196.0000, 2.5000, 0, 127, 0, 2, Gretta_Mottle_(General)
 P -385.9208, -112.7304, 0.0019, 128, 0, 128, 2, Stormguard_Forge_(Cultural)
 P -408.0000, -33.0000, 8.5000, 0, 127, 0, 2, Vacto_Molunel_(Weapons)
 P -428.0000, 42.0000, 2.5000, 0, 127, 0, 2, Handaaf_Orcslicer_(Weapons)
-P -476.9600, 78.2183, 0.0019, 0, 127, 0, 2, Gemcrafter_Donum_(Melee_Augs)
 P -400.0000, 38.0000, 2.5000, 128, 128, 128, 2, Byzar_Bloodforge_(Warrior_GM)
 P -404.0000, -83.0000, 14.5000, 128, 128, 128, 2, Beno_Targnarle_(Warrior_GM)
 P 137.2681, -179.3021, 0.0019, 0, 127, 0, 2, Aarina_Ratsbone_(Satchels)
@@ -40,13 +39,9 @@ P -339.0000, -137.0000, 1.5000, 0, 0, 0, 2, Barrith_the_Brave
 P -394.6038, -111.5319, 0.0019, 128, 0, 128, 2, Forge
 P -399.0000, -125.0000, 2.5000, 0, 127, 0, 2, Bindolmera_Greybloom_(Armor)
 P -371.0000, -139.0000, 2.5000, 0, 127, 0, 2, Hindaek_Stormhammer_(Weapons)
-P -33.5962, -68.0690, 20.0019, 0, 127, 127, 2, Guard_Dinler_(Task_Master)
-P 33.1193, -70.7039, 20.0019, 0, 127, 127, 2, Guard_Anathur_(Task_Master)
-P -212.3100, -118.0412, 0.0019, 0, 127, 0, 2, Helga_Steelsmith_(Mercenary_Liason,Roam)
 P -365.0000, -43.0000, 14.5000, 127, 127, 127, 2, Dirjadak_Barbrawler_(Warrior_GM)
 P -300.0000, -73.0000, 14.5000, 127, 127, 127, 2, Furtog_Ogrebane_(Warrior_GM)
 P -306.0000, -142.0000, 3.5000, 127, 127, 127, 2, Hogunk_Ventille_(Warrior_GM)
-P -469.4651, -21.1953, 0.0019, 0, 127, 127, 2, Artisan_Yar_Shiverbow_(Tradeskill_Quests)
 P -184.5789, -29.8116, 0.1029, 128, 0, 128, 2, Loom
 P -365.2791, -74.9505, -8.9979, 0, 0, 240, 1, GS:_Old_Silver_Coin
 P -416.0000, 88.0000, 2.5000, 0, 0, 0, 2, Bronlor_Lightblade
