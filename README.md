@@ -48,13 +48,28 @@ Before copying the Project Miragul map files, back up your existing maps:
 EverQuest\maps_backup_before_project_miragul
 ```
 
-Then copy the Project Miragul `.txt` files into:
+Then extract the [latest release](https://github.com/anotheregostar/projectmiragulmaps/releases/tag/PoP_LoY_v1.0) zip into:
 
 ```text
 EverQuest\maps
 ```
 
-If Windows asks whether to replace existing files, choose **Replace** only if you are comfortable overwriting the older map files. Keeping a backup makes it easy to revert.
+After extraction, your folder layout should look like this:
+
+```text
+EverQuest\maps\Project Miragul Darkmode Maps
+EverQuest\maps\Project Miragul Lightmode Maps
+```
+
+Inside each folder, you should see EverQuest map `.txt` files such as:
+
+```text
+poknowledge_1.txt
+stonebrunt_1.txt
+nexus_1.txt
+```
+
+The exact files may vary by release.
 
 ### Layered map files
 
@@ -322,7 +337,7 @@ Several utility/task/mercenary labels are now removed when they are not useful f
 - `Guild_Banners`
 - `Mercenary_Liason`
 - `Mercenary_Liason,Roam`
-- `Hero`s_Forge`
+- ``Hero`s_Forge``
 - `Mercenary_Roster_Quest`
 - `Tutorials`
 - `Tutorial`
